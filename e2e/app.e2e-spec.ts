@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular2-node-auth App', () => {
+describe('routingapp App', () => {
   let page: AppPage;
 
   beforeEach(() => {
