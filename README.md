@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular2NodeAuth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular2-node-auth
+Angular 2 app with node and JWT auth
+>>>>>>> a294b83268677b1f9bbfa46cdebe44dd8ab4915c
