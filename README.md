@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Angular2NodeAuth
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
@@ -30,4 +29,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # angular2-node-auth
 Angular 2 app with node and JWT auth
->>>>>>> a294b83268677b1f9bbfa46cdebe44dd8ab4915c
